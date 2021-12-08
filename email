@@ -16,7 +16,7 @@ $sub = $_POST["subject"];
 $mail = new PHPMailer(true); //Argument true in constructor enables exceptions
 
 //From email address and name
-$mail->From = "info@olayodeenoch.com";
+$mail->From = $email;
 $mail->FromName = $fname;
 
 //To address and name
@@ -37,7 +37,7 @@ $mail->isHTML(true);
 $mail->Subject = $sub;
 $mail->Body =
     "<table style='width:100%'>
-        <tr><td>' . $fname . '</td></tr>
+        <tr><td>' . $fullname . '</td></tr>
         <tr><td>Email: ' . $email . '</td></tr>
         <tr><td>phone: ' . $phone . '</td></tr>
         <tr><td>Message: ' . $text . '</td></tr>
