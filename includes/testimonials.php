@@ -21,7 +21,7 @@
             </div>
             <div class="item">
                 <div class="testi_item">
-                    <img src="img/nbc_logo.png" alt="">
+                    <img src="img/nbc-logo.png" alt="">
                     <h4>The Nigerian Baptist Convention</h4>
                     <ul class="list">
                         <li><a href="#"><i class="fa fa-star"></i></a></li>
