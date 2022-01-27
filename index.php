@@ -15,7 +15,7 @@
     <!-- meta character set -->
     <meta charset="UTF-8">
     <!-- Site Title -->
-    <title>Home :: Olayode Enoch Oladapo</title>
+    <title>Home | Olayode Enoch Oladapo</title>
 
     <link href="https://fonts.googleapis.com/css?family=Poppins:100,200,400,300,500,600,700" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,600,700,900" rel="stylesheet">
@@ -54,7 +54,7 @@
             <div class="row fullscreen d-flex align-items-center">
                 <div class="banner-content col-lg-6 col-md-12 justify-content-center ">
                     <div class="me wow fadeInDown" data-wow-duration="1s" data-wow-delay="1.2s">It's me</div>
-                    <h1 class="wow fadeInUp" data-wow-duration="1s" data-wow-delay="1.7s">Olayode Enoch</h1>
+                    <h1 class="wow fadeInUp" data-wow-duration="1s" data-wow-delay="1.7s">Enoch Olayode</h1>
                     <div class="designation mb-50 wow fadeInUp" data-wow-duration="1s" data-wow-delay="2.1s">
                         Senior Creative
                         <span class="designer">Designer</span>

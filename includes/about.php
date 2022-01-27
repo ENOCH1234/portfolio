@@ -32,7 +32,7 @@
                     <span>f</span>
                     <span>o</span>
                 </a>
-                <a href="docs/Olayode Enoch CV.pdf" target="_blank" class="primary-btn <?php echo $width; ?>" data-text="Resume">
+                <a href="docs/OLAYODE ENOCH OLADAPO - CV.pdf" target="_blank" class="primary-btn <?php echo $width; ?>" data-text="Resume">
                     <span>R</span>
                     <span>e</span>
                     <span>s</span>

@@ -21,7 +21,7 @@ $state5 = "active";
     <!-- meta character set -->
     <meta charset="UTF-8">
     <!-- Site Title -->
-    <title>Contact Me</title>
+    <title>Contact Me | Olayode Enoch Oladapo</title>
 
     <link href="https://fonts.googleapis.com/css?family=Poppins:100,200,400,300,500,600,700" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,600,700,900" rel="stylesheet">
@@ -95,11 +95,11 @@ $state5 = "active";
                 </div>
                 <div class="single-contact-address d-flex flex-row">
                     <div class="icon">
-                        <a href="mailto:support@olayodeenoch.com"><span class="lnr lnr-envelope"></span></a>
+                        <a href="mailto:olayodeenoch@gmail.com"><span class="lnr lnr-envelope"></span></a>
                     </div>
                     <div class="contact-details">
                         <a href="mailto:support@olayodeenoch.com">
-                            <h5>support@olayodeenoch.com</h5>
+                            <h5>olayodeenoch@gmail.com</h5>
                         </a>
                         <p>Send me your query anytime!</p>
                     </div>

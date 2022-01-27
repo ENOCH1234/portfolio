@@ -39,6 +39,45 @@
                     <div class="relative">
                         <div class="thumb">
                             <div class="overlay overlay-bg"></div>
+                            <img class="image img-fluid" src="img/work/nbc-web.jpg" alt="">
+                        </div>
+                        <div class="middle">
+                            <h4>NBC Registration Portal</h4>
+                            <div class="cat">Registration Portal for The Nigerian Baptist Convention</div>
+                        </div>
+                        <a class="overlay" href="http://2022convention.nigerianbaptist.org/" target="_blank"></a>
+                    </div>
+                </div>
+                <div class="single-work col-lg-4 col-md-6 col-sm-12 all graphics wow fadeInUp" data-wow-duration="2s" data-wow-delay="0.2s">
+                    <div class="relative">
+                        <div class="thumb">
+                            <div class="overlay overlay-bg"></div>
+                            <img class="image img-fluid" src="img/work/webdesign.png" alt="">
+                        </div>
+                        <div class="middle">
+                            <h4>Marketing Flier</h4>
+                            <div class="cat">Personal Marketing Flier</div>
+                        </div>
+                        <a class="overlay" href="img/work/webdesign.png"></a>
+                    </div>
+                </div>
+                <div class="single-work col-lg-4 col-md-6 col-sm-12 all web-design branding wow fadeInUp" data-wow-duration="2s" data-wow-delay="0.2s">
+                    <div class="relative">
+                        <div class="thumb">
+                            <div class="overlay overlay-bg"></div>
+                            <img class="image img-fluid" src="img/work/tar2.png" alt="">
+                        </div>
+                        <div class="middle">
+                            <h4>The African Reformation</h4>
+                            <div class="cat">Non-profit organization website</div>
+                        </div>
+                        <a class="overlay" href="https://tarexperience.com" target="_blank"></a>
+                    </div>
+                </div>
+                <div class="single-work col-lg-4 col-md-6 col-sm-12 all web-design branding wow fadeInUp" data-wow-duration="2s" data-wow-delay="0.2s">
+                    <div class="relative">
+                        <div class="thumb">
+                            <div class="overlay overlay-bg"></div>
                             <img class="image img-fluid" src="img/work/safebin.jpg" alt="">
                         </div>
                         <div class="middle">
@@ -97,7 +136,7 @@
                             <h4>Deborah's Poetry</h4>
                             <div class="cat">Celebration at One Year</div>
                         </div>
-                        <a class="overlay" href="#"></a>
+                        <a class="overlay" href="img/work/deb1.jpg"></a>
                     </div>
                 </div>
                 <div class="single-work col-lg-4 col-md-6 col-sm-12 all web-design branding wow fadeInUp" data-wow-duration="2s" data-wow-delay="0.2s">
@@ -121,7 +160,7 @@
                         </div>
                         <div class="middle">
                             <h4>Barter By Flutterwave</h4>
-                            <div class="cat">Ambassador Promtional Website</div>
+                            <div class="cat">Campus Ambassador Promotional Website</div>
                         </div>
                         <a class="overlay" href="http://bartersetup.herokuapp.com/" target="_blank"></a>
                     </div>
@@ -136,20 +175,7 @@
                             <h4>Graphic Design</h4>
                             <div class="cat">For Deborah's Poetry</div>
                         </div>
-                        <a class="overlay" href="#"></a>
-                    </div>
-                </div>
-                <div class="single-work col-lg-4 col-md-6 col-sm-12 all web-design branding wow fadeInUp" data-wow-duration="2s" data-wow-delay="0.2s">
-                    <div class="relative">
-                        <div class="thumb">
-                            <div class="overlay overlay-bg"></div>
-                            <img class="image img-fluid" src="img/work/tar.png" alt="">
-                        </div>
-                        <div class="middle">
-                            <h4>The African Reformation</h4>
-                            <div class="cat">A non-profit organization website</div>
-                        </div>
-                        <a class="overlay" href="https://tarexperience.com" target="_blank"></a>
+                        <a class="overlay" href="img/work/deb2.jpg"></a>
                     </div>
                 </div>
                 <div class="single-work col-lg-4 col-md-6 col-sm-12 all web-design wow fadeInUp" data-wow-duration="2s">
@@ -175,7 +201,7 @@
                             <h4>Quote Design</h4>
                             <div class="cat">For Pastor Fammeya Yelebe</div>
                         </div>
-                        <a class="overlay" href="#"></a>
+                        <a class="overlay" href="img/work/pstfam.png"></a>
                     </div>
                 </div>
                 <div class="single-work col-lg-4 col-md-6 col-sm-12 all web-design web-design wow fadeInUp" data-wow-duration="2s" data-wow-delay="0.4s">
@@ -201,7 +227,7 @@
                             <h4>December Greetings</h4>
                             <div class="cat">Church Media Solutions</div>
                         </div>
-                        <a class="overlay" href="#"></a>
+                        <a class="overlay" href="img/work/dec.png"></a>
                     </div>
                 </div>
                 <div class="single-work col-lg-4 col-md-6 col-sm-12 all web-design wow fadeInUp" data-wow-duration="2s" data-wow-delay="0.6s">
@@ -279,7 +305,7 @@
                             <h4>Ondo BSF Crest Awareness</h4>
                             <div class="cat">For Baptist Student Fellowship, Ondo State Baptist Conference</div>
                         </div>
-                        <a class="overlay" href="#"></a>
+                        <a class="overlay" href="img/work/crest.jpg"></a>
                     </div>
                 </div>
                 <div class="single-work col-lg-4 col-md-6 col-sm-12 all web-design wow fadeInUp" data-wow-duration="2s" data-wow-delay="0.2s">
@@ -306,6 +332,84 @@
                             <div class="cat">An online newspaper mobile application (Android)</div>
                         </div>
                         <a class="overlay" target="_blank" href="https://play.google.com/store/apps/details?id=ng.com.starnews.starnews"></a>
+                    </div>
+                </div>
+                <div class="single-work col-lg-4 col-md-6 col-sm-12 all graphics wow fadeInUp" data-wow-duration="2s" data-wow-delay="0.2s">
+                    <div class="relative">
+                        <div class="thumb">
+                            <div class="overlay overlay-bg"></div>
+                            <img class="image img-fluid" src="img/work/enoch.png" alt="">
+                        </div>
+                        <div class="middle">
+                            <h4>Christmas Greeting</h4>
+                            <div class="cat">Made by me for all my friends and family</div>
+                        </div>
+                        <a class="overlay" href="img/work/enoch.png"></a>
+                    </div>
+                </div>
+                <div class="single-work col-lg-4 col-md-6 col-sm-12 all graphics wow fadeInUp" data-wow-duration="2s" data-wow-delay="0.2s">
+                    <div class="relative">
+                        <div class="thumb">
+                            <div class="overlay overlay-bg"></div>
+                            <img class="image img-fluid" src="img/work/dad&mum.png" alt="">
+                        </div>
+                        <div class="middle">
+                            <h4>Christmas Greeting</h4>
+                            <div class="cat">Made by me for my dad and mum, Rev'd & Dns. S.O. Olayode.</div>
+                        </div>
+                        <a class="overlay" href="img/work/dad&mum.png"></a>
+                    </div>
+                </div>
+                <div class="single-work col-lg-4 col-md-6 col-sm-12 all graphics wow fadeInUp" data-wow-duration="2s" data-wow-delay="0.2s">
+                    <div class="relative">
+                        <div class="thumb">
+                            <div class="overlay overlay-bg"></div>
+                            <img class="image img-fluid" src="img/work/ltc.png" alt="">
+                        </div>
+                        <div class="middle">
+                            <h4>Church Programme Flier</h4>
+                            <div class="cat">Co-created with Isaiah Graphics for BSF Ondo State</div>
+                        </div>
+                        <a class="overlay" href="img/work/ltc.png"></a>
+                    </div>
+                </div>
+                <div class="single-work col-lg-4 col-md-6 col-sm-12 all graphics wow fadeInUp" data-wow-duration="2s" data-wow-delay="0.2s">
+                    <div class="relative">
+                        <div class="thumb">
+                            <div class="overlay overlay-bg"></div>
+                            <img class="image img-fluid" src="img/work/Enoch Business Banner.png" alt="">
+                        </div>
+                        <div class="middle">
+                            <h4>Business Flier</h4>
+                            <div class="cat">Personal Business Flier on Fiverr</div>
+                        </div>
+                        <a class="overlay" href="img/work/Enoch Business Banner.png"></a>
+                    </div>
+                </div>
+                <div class="single-work col-lg-4 col-md-6 col-sm-12 all graphics wow fadeInUp" data-wow-duration="2s" data-wow-delay="0.2s">
+                    <div class="relative">
+                        <div class="thumb">
+                            <div class="overlay overlay-bg"></div>
+                            <img class="image img-fluid" src="img/work/Enoch Fiverr Banner.jpg" alt="">
+                        </div>
+                        <div class="middle">
+                            <h4>Business Flier</h4>
+                            <div class="cat">Personal Business Flier on Fiverr</div>
+                        </div>
+                        <a class="overlay" href="img/work/Enoch Fiverr Banner.jpg"></a>
+                    </div>
+                </div>
+                <div class="single-work col-lg-4 col-md-6 col-sm-12 all graphics wow fadeInUp" data-wow-duration="2s" data-wow-delay="0.2s">
+                    <div class="relative">
+                        <div class="thumb">
+                            <div class="overlay overlay-bg"></div>
+                            <img class="image img-fluid" src="img/work/Enoch Website Banner.png" alt="">
+                        </div>
+                        <div class="middle">
+                            <h4>Website Design Flier</h4>
+                            <div class="cat">Website Design & Development Promotional Flier</div>
+                        </div>
+                        <a class="overlay" href="img/work/Enoch Website Banner.png"></a>
                     </div>
                 </div>
             </div>

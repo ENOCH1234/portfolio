@@ -27,8 +27,8 @@
             </div>
             <div class="col-lg-4 col-md-4">
                 <div class="contact-box">
-                    <a href="./">
-                        <h4>olayodeenoch.com</h4>
+                    <a href="https://wa.me/+2348074303908" target="_blank">
+                        <h4>Chat On WhatsApp</h4>
                     </a>
                 </div>
             </div>
@@ -63,7 +63,7 @@
                         <h4>Follow Me</h4>
                     </div>
                     <div class="footer-social">
-                        <a href="https://web.facebook.com/olayode.enochprecious/" target="_blank"><i class="fa fa-facebook"></i></a>
+                        <a href="https://web.facebook.com/olaenoch/" target="_blank"><i class="fa fa-facebook"></i></a>
                         <a href="https://twitter.com/OlayodeEnoch/" target="_blank"><i class="fa fa-twitter"></i></a>
                         <a href="https://www.instagram.com/olayodeenoch/" target="_blank"><i class="fa fa-instagram"></i></a>
                         <a href="https://www.linkedin.com/in/enoch-olayode-611628143/" target="_blank"><i class="fa fa-linkedin"></i></a>
