@@ -412,6 +412,45 @@
                         <a class="overlay" href="img/work/Enoch Website Banner.png"></a>
                     </div>
                 </div>
+                <div class="single-work col-lg-4 col-md-6 col-sm-12 all graphics wow fadeInUp" data-wow-duration="2s" data-wow-delay="0.2s">
+                    <div class="relative">
+                        <div class="thumb">
+                            <div class="overlay overlay-bg"></div>
+                            <img class="image img-fluid" src="img/work/I4G AAUA Info Session.png" alt="">
+                        </div>
+                        <div class="middle">
+                            <h4>I4G AAUA Info Session</h4>
+                            <div class="cat">Ingressive For Good, AAUA Info Session Flier</div>
+                        </div>
+                        <a class="overlay" href="img/work/I4G AAUA Info Session.png"></a>
+                    </div>
+                </div>
+                <div class="single-work col-lg-4 col-md-6 col-sm-12 all graphics wow fadeInUp" data-wow-duration="2s" data-wow-delay="0.2s">
+                    <div class="relative">
+                        <div class="thumb">
+                            <div class="overlay overlay-bg"></div>
+                            <img class="image img-fluid" src="img/work/I4G Unical Info Session.png" alt="">
+                        </div>
+                        <div class="middle">
+                            <h4>I4G UNICAL Info Session</h4>
+                            <div class="cat">Ingressive For Good, UNICAL Info Session Flier</div>
+                        </div>
+                        <a class="overlay" href="img/work/I4G Unical Info Session.png"></a>
+                    </div>
+                </div>
+                <div class="single-work col-lg-4 col-md-6 col-sm-12 all graphics wow fadeInUp" data-wow-duration="2s" data-wow-delay="0.2s">
+                    <div class="relative">
+                        <div class="thumb">
+                            <div class="overlay overlay-bg"></div>
+                            <img class="image img-fluid" src="img/work/CMS Spiritual Awakening.png" alt="">
+                        </div>
+                        <div class="middle">
+                            <h4>Church Media Solutions</h4>
+                            <div class="cat">Spiritual Awakening Flier</div>
+                        </div>
+                        <a class="overlay" href="img/work/CMS Spiritual Awakening.png"></a>
+                    </div>
+                </div>
             </div>
         </div>
     </div>
