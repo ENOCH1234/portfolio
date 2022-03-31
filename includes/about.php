@@ -32,13 +32,13 @@
                     <span>f</span>
                     <span>o</span>
                 </a>
-                <a href="docs/OLAYODE ENOCH OLADAPO - CV.pdf" target="_blank" class="primary-btn <?php echo $width; ?>" data-text="Resume">
-                    <span>R</span>
-                    <span>e</span>
-                    <span>s</span>
+                <a href="https://github.com/ENOCH1234" target="_blank" class="primary-btn <?php echo $width; ?>" data-text="GitHub Account">
+                    <span>G</span>
+                    <span>i</span>
+                    <span>t</span>
+                    <span>H</span>
                     <span>u</span>
-                    <span>m</span>
-                    <span>e</span>
+                    <span>b</span>
                 </a>
             </div>
         </div>

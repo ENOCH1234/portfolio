@@ -39,6 +39,19 @@
                     <div class="relative">
                         <div class="thumb">
                             <div class="overlay overlay-bg"></div>
+                            <img class="image img-fluid" src="img/work/taskrena.png" alt="">
+                        </div>
+                        <div class="middle">
+                            <h4>Taskrena</h4>
+                            <div class="cat">An online revenue generation platform by performing social tasks</div>
+                        </div>
+                        <a class="overlay" href="https://earn.taskrena.com" target="_blank"></a>
+                    </div>
+                </div>
+                <div class="single-work col-lg-4 col-md-6 col-sm-12 all web-design branding wow fadeInUp" data-wow-duration="2s" data-wow-delay="0.2s">
+                    <div class="relative">
+                        <div class="thumb">
+                            <div class="overlay overlay-bg"></div>
                             <img class="image img-fluid" src="img/work/nbc-web.jpg" alt="">
                         </div>
                         <div class="middle">
@@ -46,6 +59,19 @@
                             <div class="cat">Registration Portal for The Nigerian Baptist Convention</div>
                         </div>
                         <a class="overlay" href="http://2022convention.nigerianbaptist.org/" target="_blank"></a>
+                    </div>
+                </div>
+                <div class="single-work col-lg-4 col-md-6 col-sm-12 all graphics wow fadeInUp" data-wow-duration="2s" data-wow-delay="0.2s">
+                    <div class="relative">
+                        <div class="thumb">
+                            <div class="overlay overlay-bg"></div>
+                            <img class="image img-fluid" src="img/work/Anticipate CSP.png" alt="">
+                        </div>
+                        <div class="middle">
+                            <h4>Anticipate Flier</h4>
+                            <div class="cat">Anticipate Flier for Church Media Solutions</div>
+                        </div>
+                        <a class="overlay" href="img/work/Anticipate CSP.png"></a>
                     </div>
                 </div>
                 <div class="single-work col-lg-4 col-md-6 col-sm-12 all graphics wow fadeInUp" data-wow-duration="2s" data-wow-delay="0.2s">
@@ -403,13 +429,13 @@
                     <div class="relative">
                         <div class="thumb">
                             <div class="overlay overlay-bg"></div>
-                            <img class="image img-fluid" src="img/work/Enoch Website Banner.png" alt="">
+                            <img class="image img-fluid" src="img/work/CMS Workshop.jpg" alt="">
                         </div>
                         <div class="middle">
-                            <h4>Website Design Flier</h4>
-                            <div class="cat">Website Design & Development Promotional Flier</div>
+                            <h4>Spiritual Awakening Flier</h4>
+                            <div class="cat">Spiritual Awakening Flier for Church Media Solutions</div>
                         </div>
-                        <a class="overlay" href="img/work/Enoch Website Banner.png"></a>
+                        <a class="overlay" href="img/work/CMS Workshop.jpg"></a>
                     </div>
                 </div>
                 <div class="single-work col-lg-4 col-md-6 col-sm-12 all graphics wow fadeInUp" data-wow-duration="2s" data-wow-delay="0.2s">
