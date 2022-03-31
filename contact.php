@@ -13,11 +13,11 @@ $state5 = "active";
     <!-- Favicon-->
     <link rel="shortcut icon" href="img/fav.png">
     <!-- Author Meta -->
-    <meta name="author" content="colorlib">
+    <meta name="author" content="Olayode Enoch">
     <!-- Meta Description -->
-    <meta name="description" content="">
+    <meta name="description" content="Reach out to Enoch Olayode and know about his passion, mission, or contact him for a job, contract, or church media setup, webinar, workshop or just talk with him about the gospel.">
     <!-- Meta Keyword -->
-    <meta name="keywords" content="">
+    <meta name="keywords" content="Olayode Enoch, Enoch Olayode, Website Design, Website Building, Website Development, Olayode Enoch Website, Olayode Enoch's Website, Olayode Enoch Oladapo, Oladapo Enoch Olayode, Who is Enoch Olayode, Olayode Enoch Promo Sale, Olayode Enoch Portfolio, Contact Olayode Enoch, Contact Enoch Olayode">
     <!-- meta character set -->
     <meta charset="UTF-8">
     <!-- Site Title -->

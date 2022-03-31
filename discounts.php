@@ -1,3 +1,8 @@
+<!-- Set active for header color -->
+<?php
+$state7 = "active";
+?>
+
 <!DOCTYPE html>
 <html lang="zxx" class="no-js">
 
@@ -7,15 +12,15 @@
     <!-- Favicon-->
     <link rel="shortcut icon" href="img/fav.png">
     <!-- Author Meta -->
-    <meta name="author" content="colorlib">
+    <meta name="author" content="Olayode Enoch">
     <!-- Meta Description -->
-    <meta name="description" content="">
+    <meta name="description" content="April 50% Discount Sale for Church Websites and Personal Portfolio. This is offer is only valid throughout April, 2022.">
     <!-- Meta Keyword -->
-    <meta name="keywords" content="">
+    <meta name="keywords" content="April 50% Discount Sale for Church Websites and Personal Portfolio, Olayode Enoch, Enoch Olayode, Website Design, Website Building, Website Development, Olayode Enoch Website, Olayode Enoch's Website, Olayode Enoch Oladapo, Oladapo Enoch Olayode, Who is Enoch Olayode, Olayode Enoch Promo Sale, Olayode Enoch Portfolio, Olayode Enoch Promo, Olayode Enoch Discount">
     <!-- meta character set -->
     <meta charset="UTF-8">
     <!-- Site Title -->
-    <title>Portfolio Details</title>
+    <title>April 50% Discount Sale | Olayode Enoch</title>
 
     <link href="https://fonts.googleapis.com/css?family=Poppins:100,200,400,300,500,600,700" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,600,700,900" rel="stylesheet">
@@ -48,9 +53,8 @@
                     </h1>
                     <p class="link-nav">
                         <span class="box">
-                            <a href="index.php">Home </a>
-                            <a href="portfolio.php">Portfolio</a>
-                            <a href="#">Portfolio Details</a>
+                            <a href="./">Home </a>
+                            <a href="#">April Discount Sale</a>
                     </p>
                     </span>
                 </div>

@@ -13,7 +13,7 @@
                         A Christian | Full-Stack Web Developer | Mobile App Developer (Flutter) | Tech Enthusiast | Leader.</p>
 
                     <p>
-                        I am a man of many parts with the goal of reaching out to the world with technical solutions. I am ready to learn and collaborate with anybody around the world to solve problems and connect the dots, especially in the tech industry.</p>
+                        I am a man of many parts with the goal of reaching out to the world with gospel of JESUS CHRIST and technical solutions. I am ready to learn and collaborate with anybody around the world to solve problems and connect the dots, especially in the tech industry.</p>
 
                     <p>
                         Most times, I love writing codes but always find myself trying to help others navigate their career path in tech and giving the right support, tools, and training to the improvement of developer communities.

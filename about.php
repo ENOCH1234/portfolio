@@ -14,11 +14,11 @@ $width = "width";
     <!-- Favicon-->
     <link rel="shortcut icon" href="img/fav.png">
     <!-- Author Meta -->
-    <meta name="author" content="colorlib">
+    <meta name="author" content="Olayode Enoch">
     <!-- Meta Description -->
-    <meta name="description" content="">
+    <meta name="description" content="I am a man of many parts with the goal of reaching out to the world with the gospel of JESUS CHRIST and technical solutions. I am ready to learn and collaborate with anybody around the world to solve problems and connect the dots, especially in the tech industry.">
     <!-- Meta Keyword -->
-    <meta name="keywords" content="">
+    <meta name="keywords" content="Olayode Enoch, Enoch Olayode, Website Design, Website Building, Website Development, Olayode Enoch Website, Olayode Enoch's Website, Olayode Enoch Oladapo, Oladapo Enoch Olayode, Who is Enoch Olayode, Olayode Enoch Promo Sale, Olayode Enoch Portfolio, About Olayode Enoch, About Enoch Olayode">
     <!-- meta character set -->
     <meta charset="UTF-8">
     <!-- Site Title -->
