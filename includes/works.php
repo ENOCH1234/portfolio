@@ -373,7 +373,7 @@
                         <a class="overlay" href="img/work/enoch.png"></a>
                     </div>
                 </div>
-                <div class="single-work col-lg-4 col-md-6 col-sm-12 all graphics wow fadeInUp" data-wow-duration="2s" data-wow-delay="0.2s">
+                <!-- <div class="single-work col-lg-4 col-md-6 col-sm-12 all graphics wow fadeInUp" data-wow-duration="2s" data-wow-delay="0.2s">
                     <div class="relative">
                         <div class="thumb">
                             <div class="overlay overlay-bg"></div>
@@ -385,7 +385,7 @@
                         </div>
                         <a class="overlay" href="img/work/dad&mum.png"></a>
                     </div>
-                </div>
+                </div> -->
                 <div class="single-work col-lg-4 col-md-6 col-sm-12 all graphics wow fadeInUp" data-wow-duration="2s" data-wow-delay="0.2s">
                     <div class="relative">
                         <div class="thumb">
@@ -423,6 +423,32 @@
                             <div class="cat">Personal Business Flier on Fiverr</div>
                         </div>
                         <a class="overlay" href="img/work/Enoch Fiverr Banner.jpg"></a>
+                    </div>
+                </div>
+                <div class="single-work col-lg-4 col-md-6 col-sm-12 all graphics wow fadeInUp" data-wow-duration="2s" data-wow-delay="0.2s">
+                    <div class="relative">
+                        <div class="thumb">
+                            <div class="overlay overlay-bg"></div>
+                            <img class="image img-fluid" src="img/work/April Discount Sale.png" alt="">
+                        </div>
+                        <div class="middle">
+                            <h4>April 50% Discount Sale</h4>
+                            <div class="cat">Website Discount Sale for Churches and Personal Portfolios</div>
+                        </div>
+                        <a class="overlay" href="img/work/April Discount Sale.png"></a>
+                    </div>
+                </div>
+                <div class="single-work col-lg-4 col-md-6 col-sm-12 all graphics wow fadeInUp" data-wow-duration="2s" data-wow-delay="0.2s">
+                    <div class="relative">
+                        <div class="thumb">
+                            <div class="overlay overlay-bg"></div>
+                            <img class="image img-fluid" src="img/work/GDG Akoko 2022 Year Theme.png" alt="">
+                        </div>
+                        <div class="middle">
+                            <h4>GDG Akoko 2022 Year Theme</h4>
+                            <div class="cat">Google Developer Group, Akoko 2022 Year Theme</div>
+                        </div>
+                        <a class="overlay" href="img/work/GDG Akoko 2022 Year Theme.png"></a>
                     </div>
                 </div>
                 <div class="single-work col-lg-4 col-md-6 col-sm-12 all graphics wow fadeInUp" data-wow-duration="2s" data-wow-delay="0.2s">

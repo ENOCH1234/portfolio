@@ -49,7 +49,7 @@ $state7 = "active";
             <div class="row d-flex align-items-center justify-content-center">
                 <div class="about-content col-lg-12">
                     <h1 class="text-white">
-                        Portfolio Details
+                        April 50% Discount Sale
                     </h1>
                     <p class="link-nav">
                         <span class="box">
@@ -69,41 +69,45 @@ $state7 = "active";
             <div class="portfolio_details_inner">
                 <div class="row">
                     <div class="col-md-6">
-                        <div class="left_img">
+                        <div class="left_img wow fadeInLeft" data-wow-duration="2s" data-wow-delay="0.2s">
                             <img class="img-fluid" src="img/April Discount Sale.png" alt="">
                         </div>
                     </div>
                     <div class="offset-md-1 col-md-5">
-                        <div class="portfolio_right_text mt-30">
-                            <h4>Lavendar ambient colorlib</h4>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore
-                                magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.</p>
+                        <div class="portfolio_right_text mt-30 wow fadeInRight" data-wow-duration="2s" data-wow-delay="0.2s">
+                            <h4>April 50% Discount Sale</h4>
+                            <p>We will be running a one-month 50% Discount Sale throughout April, 2022 for <strong>Church Websites</strong> and <strong>Personal Portfolios</strong>. </p>
+
+                            <p>To apply, kindly fill the Google Form below. Please, do well to check the <em><strong>terms and conditions</strong></em> below to check if you can apply.</p>
                             <ul class="list">
-                                <li><span>Rating</span>: <i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i></li>
-                                <li><span>Client</span>: colorlib</li>
-                                <li><span>Website</span>: colorlib.com</li>
-                                <li><span>Completed</span>: 17 Aug 2018</li>
+
+                                <li><span>Start Date</span>: Friday, 1st April, 2022 || <strong>12am GMT+1</strong></li>
+                                <li><span>End Date</span>: Saturday, 30th April, 2022 || <strong>11:59pm GMT+1</strong></li>
                             </ul>
-                            <ul class="list social_details">
+                            <br>
+                            <center>
+                                <a href="https://bit.ly/AprilSaleDiscount" style="width:100%; text-align:center;" target="_blank" class="genric-btn success circle"><strong>Apply Now <span class="lnr lnr-arrow-right"></span></strong></a>
+                            </center>
+                            <!-- <ul class="list social_details">
                                 <li><a href="#"><i class="fa fa-facebook"></i></a></li>
                                 <li><a href="#"><i class="fa fa-twitter"></i></a></li>
                                 <li><a href="#"><i class="fa fa-behance"></i></a></li>
                                 <li><a href="#"><i class="fa fa-dribbble"></i></a></li>
                                 <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                            </ul>
+                            </ul> -->
                         </div>
                     </div>
                 </div>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna
-                    aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-                    Duis aute irure dolor in reprehenderit.</p>
-                <p>Voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt
-                    in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-                    accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto
-                    beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-                    consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia
-                    dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam
-                    aliquam quaerat voluptatem.</p>
+                <h3 class="mb-30" id="terms">Terms And Conditions</h3>
+                <div class="wow fadeInUp" data-wow-duration="2s" data-wow-delay="0.2s">
+                    <ul class="unordered-list">
+                        <li>This offer is only available for <strong>Church Websites</strong> and <strong>Personal Portfolio Websites</strong> - <em>not for businesses, brands, schools, or ecommerce websites</em></li>
+                        <li>All currently handled works are not eligible ie. if your work is currently handled by us and you have made payments; you are not eligible</li>
+                        <li>You must be ready to pay for service immediately ie. within <strong>April, 2022</strong></li>
+                        <li>You must be available throughout the process for quick delivery of services</li>
+                        <li>This offer is for limited cutomers, we will stop acceptance of offers once we are filled up. <strong>NOTE: If you have not made payment, your space will be given out once our list is filled up.</strong></li>
+                    </ul>
+                </div>
             </div>
         </div>
     </section>

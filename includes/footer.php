@@ -5,7 +5,7 @@
             <div class="col-lg-12">
                 <div class="contact-title">
                     <h2>Contact Me</h2>
-                    <p>If you are looking at reaching me, feel free to DM on WhatsApp, give a call, or shoot me an email!</p>
+                    <p>If you are looking at reaching me, feel free to DM on WhatsApp, give a call, or send me an email!</p>
                 </div>
             </div>
         </div>
@@ -73,10 +73,9 @@
         </div>
         <div class="row footer-bottom justify-content-center">
             <p class="col-lg-8 col-sm-12 footer-text">
-                Copyright &copy;<script>
+                Copyright &copy; <script>
                     document.write(new Date().getFullYear());
                 </script> All rights reserved | <b><a href="./">Olayode Enoch Oladapo</a></b>
-                <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
             </p>
         </div>
     </div>

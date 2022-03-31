@@ -8,6 +8,7 @@
                 <ul class="nav-menu">
                     <li><a class="active" href="./">Home</a></li>
                     <li><a href="about">About</a></li>
+                    <!-- <li><a href="ministry">Ministry</a></li> -->
                     <li><a href="portfolio">Portfolio</a></li>
                     <li><a href="discounts">Discount Sale</a></li>
                     <li class="menu-has-children"><a href="#">Pages</a>
