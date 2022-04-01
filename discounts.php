@@ -70,7 +70,7 @@ $state7 = "active";
                 <div class="row">
                     <div class="col-md-6">
                         <div class="left_img wow fadeInLeft" data-wow-duration="2s" data-wow-delay="0.2s">
-                            <img class="img-fluid" src="img/April Discount Sale.png" alt="">
+                            <img class="img-fluid" src="img/April Sale.png" alt="">
                         </div>
                     </div>
                     <div class="offset-md-1 col-md-5">
@@ -102,10 +102,10 @@ $state7 = "active";
                 <div class="wow fadeInUp" data-wow-duration="2s" data-wow-delay="0.2s">
                     <ul class="unordered-list">
                         <li>This offer is only available for <strong>Church Websites</strong> and <strong>Personal Portfolio Websites</strong> - <em>not for businesses, brands, schools, or ecommerce websites</em></li>
-                        <li>All currently handled works are not eligible ie. if your work is currently handled by us and you have made payments; you are not eligible</li>
-                        <li>You must be ready to pay for service immediately ie. within <strong>April, 2022</strong></li>
+                        <li>All currently handled works are not eligible i.e. if your work is currently handled by us and you have made payments; you are not eligible</li>
+                        <li>You must be ready to pay for service immediately i.e. within <strong>April, 2022</strong></li>
                         <li>You must be available throughout the process for quick delivery of services</li>
-                        <li>This offer is for limited cutomers, we will stop acceptance of offers once we are filled up. <strong>NOTE: If you have not made payment, your space will be given out once our list is filled up.</strong></li>
+                        <li>This offer is for limited customers, we will stop acceptance of offers once we are filled up. <strong>NOTE: If you have not made payment, your space will be given out once our list is filled up.</strong></li>
                     </ul>
                 </div>
             </div>

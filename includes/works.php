@@ -429,13 +429,13 @@
                     <div class="relative">
                         <div class="thumb">
                             <div class="overlay overlay-bg"></div>
-                            <img class="image img-fluid" src="img/work/April Discount Sale.png" alt="">
+                            <img class="image img-fluid" src="img/work/April Sale.png" alt="">
                         </div>
                         <div class="middle">
                             <h4>April 50% Discount Sale</h4>
                             <div class="cat">Website Discount Sale for Churches and Personal Portfolios</div>
                         </div>
-                        <a class="overlay" href="img/work/April Discount Sale.png"></a>
+                        <a class="overlay" href="img/work/April Sale.png"></a>
                     </div>
                 </div>
                 <div class="single-work col-lg-4 col-md-6 col-sm-12 all graphics wow fadeInUp" data-wow-duration="2s" data-wow-delay="0.2s">
