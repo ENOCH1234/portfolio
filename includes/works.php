@@ -451,19 +451,19 @@
                         <a class="overlay" href="img/work/GDG Akoko 2022 Year Theme.png"></a>
                     </div>
                 </div>
-                <div class="single-work col-lg-4 col-md-6 col-sm-12 all graphics wow fadeInUp" data-wow-duration="2s" data-wow-delay="0.2s">
+                <!-- <div class="single-work col-lg-4 col-md-6 col-sm-12 all graphics wow fadeInUp" data-wow-duration="2s" data-wow-delay="0.2s">
                     <div class="relative">
                         <div class="thumb">
                             <div class="overlay overlay-bg"></div>
-                            <img class="image img-fluid" src="img/work/CMS Workshop.jpg" alt="">
+                            <img class="image img-fluid" src="img/work/CMS Workshop.png" alt="Church Media Solutions Spiritual Awakening Flier">
                         </div>
                         <div class="middle">
                             <h4>Spiritual Awakening Flier</h4>
                             <div class="cat">Spiritual Awakening Flier for Church Media Solutions</div>
                         </div>
-                        <a class="overlay" href="img/work/CMS Workshop.jpg"></a>
+                        <a class="overlay" href="img/work/CMS Workshop.png"></a>
                     </div>
-                </div>
+                </div> -->
                 <div class="single-work col-lg-4 col-md-6 col-sm-12 all graphics wow fadeInUp" data-wow-duration="2s" data-wow-delay="0.2s">
                     <div class="relative">
                         <div class="thumb">
