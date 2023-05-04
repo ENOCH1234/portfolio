@@ -8,7 +8,7 @@
     <link rel="shortcut icon" href="img/fav.png">
     <!-- Author Meta -->
     <meta name="author" content="Olayode Enoch">
-    
+
     <!-- Meta Description -->
     <meta name="description" content="I am a man of many parts with the goal of reaching out to the world with the gospel of JESUS CHRIST and technical solutions. I am ready to learn and collaborate with anybody around the world to solve problems and connect the dots, especially in the tech industry.">
 
