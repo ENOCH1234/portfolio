@@ -36,11 +36,12 @@
 
         <div class="row">
             <div class="col-lg-12 text-center">
-                <a href="contact" class="primary-btn mt-50" data-text="Hire Me">
-                    <span>H</span>
-                    <span>i</span>
-                    <span>r</span>
+                <a href="contact" class="primary-btn mt-50" data-text="Reach Me">
+                    <span>R</span>
                     <span>e</span>
+                    <span>a</span>
+                    <span>c</span>
+                    <span>h</span>
                     <span> </span>
                     <span>M</span>
                     <span>e</span>
