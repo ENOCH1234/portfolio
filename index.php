@@ -60,8 +60,8 @@
                     <div class="designation mb-50 wow fadeInUp" data-wow-duration="1s" data-wow-delay="2.1s">
                         Software
                         <span class="designer">Engineer</span>
-                        and Website
-                        <span class="developer">Developer</span>
+                        and Creative
+                        <span class="developer">Designer</span>
                     </div>
                     <a href="contact" class="primary-btn" data-text="Check My CV">
                         <span>M</span>
