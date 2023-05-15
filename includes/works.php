@@ -4,7 +4,7 @@
             <div class="col-lg-6">
                 <div class="section-title">
                     <h2>Latest Works</h2>
-                    <p>If you are yet convinced of hiring me, these recent works will give you a tip of how well your website, portal etc could be!</p>
+                    <p>If you are yet convinced of hiring me, these recent works will give you a tip of how well your next project, website, portal, design etc could be!</p>
                 </div>
             </div>
 
@@ -14,7 +14,7 @@
                         <li class="active" data-filter=".all">All Categories</li>
                         <li data-filter=".web-design">Web Design</li>
                         <li data-filter=".graphics">Graphics</li>
-                        <li data-filter=".app">App Development</li>
+                        <li data-filter=".app">Mobile Development</li>
                     </ul>
                 </div>
             </div>
@@ -22,6 +22,45 @@
 
         <div class="filters-content">
             <div class="row grid">
+                <div class="single-work col-lg-4 col-md-6 col-sm-12 all web-design branding wow fadeInUp" data-wow-duration="2s" data-wow-delay="0.2s">
+                    <div class="relative">
+                        <div class="thumb">
+                            <div class="overlay overlay-bg"></div>
+                            <img class="image img-fluid" src="img/work/Flomodetech.png" alt="">
+                        </div>
+                        <div class="middle">
+                            <h4>Flomodetech</h4>
+                            <div class="cat">Cloud Specialist Website</div>
+                        </div>
+                        <a class="overlay" target="_blank" href="https://flomodetech.com"></a>
+                    </div>
+                </div>
+                <div class="single-work col-lg-4 col-md-6 col-sm-12 all web-design branding wow fadeInUp" data-wow-duration="2s" data-wow-delay="0.2s">
+                    <div class="relative">
+                        <div class="thumb">
+                            <div class="overlay overlay-bg"></div>
+                            <img class="image img-fluid" src="img/work/Psync Group.png" alt="">
+                        </div>
+                        <div class="middle">
+                            <h4>PSYNC Group</h4>
+                            <div class="cat">Multi-National Construction Company Website</div>
+                        </div>
+                        <a class="overlay" target="_blank" href="https://psyncgroup.com"></a>
+                    </div>
+                </div>
+                <div class="single-work col-lg-4 col-md-6 col-sm-12 all web-design branding wow fadeInUp" data-wow-duration="2s" data-wow-delay="0.2s">
+                    <div class="relative">
+                        <div class="thumb">
+                            <div class="overlay overlay-bg"></div>
+                            <img class="image img-fluid" src="img/work/Grace Legal Group.png" alt="">
+                        </div>
+                        <div class="middle">
+                            <h4>Grace Legal Group</h4>
+                            <div class="cat">Los Angeles Based Attorney Group</div>
+                        </div>
+                        <a class="overlay" target="_blank" href="https://gracelegalgroup.com"></a>
+                    </div>
+                </div>
                 <div class="single-work col-lg-4 col-md-6 col-sm-12 all web-design branding wow fadeInUp" data-wow-duration="2s" data-wow-delay="0.2s">
                     <div class="relative">
                         <div class="thumb">

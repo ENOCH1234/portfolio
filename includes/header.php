@@ -10,11 +10,11 @@
                     <li><a class="<?php echo $state1; ?>" href="about">About</a></li>
                     <!-- <li><a class="<?php echo $state8; ?>" href="ministry">Ministry</a></li> -->
                     <li><a class="<?php echo $state2; ?>" href="portfolio">Portfolio</a></li>
-                    <li><a class="<?php echo $state7; ?>" href="discounts">Discount Sale</a></li>
+                    <!-- <li><a class="<?php echo $state7; ?>" href="discounts">Discount Sale</a></li> -->
                     <li class="menu-has-children"><a class="<?php echo $state5; ?>" href="#">Pages</a>
                         <ul class="dark">
                             <li><a class="<?php echo $state3; ?>" href="contact">Contact</a></li>
-                            <li><a class="<?php echo $state6 ?>" href="referral">Referral</a></li>
+                            <!-- <li><a class="<?php echo $state6 ?>" href="referral">Referral</a></li> -->
                             <li><a class="<?php echo $state4; ?>" href="services">Services</a></li>
                         </ul>
                     </li>

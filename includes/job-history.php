@@ -37,7 +37,7 @@
                     <div class="top-sec d-flex justify-content-between">
                         <div class="top-left">
                             <h4>Chief Executive Officer</h4>
-                            <p>GODLY Media Concepts, Nigeria</p>
+                            <p>Knopee Digital Services</p>
                         </div>
                         <div class="top-right">
                             <a href="#" class="primary-btn" data-text="Aug '17 to Present">
@@ -49,7 +49,7 @@
                         </div>
                     </div>
                     <div class="bottom-sec wow fadeIn" data-wow-duration="2s">
-                        GODLY Media Concepts is a company borne out of passion and purpose; visioned with
+                        Knopee is a company borne out of passion and purpose; visioned with
                         bringing solutions to tech and media problems in Nigeria and around the globe.
                     </div>
                 </div>
