@@ -75,10 +75,10 @@ $state5 = "active";
                                 <span class="lnr lnr-home"></span>
                             </div>
                             <div class="contact-details">
-                                <h5>King's Villa, Adefarati Street,</h5>
+                                <h5>Hicon Hostel, Onireason Street,</h5>
                         </a>
                         <p>
-                            Adekunle Ajasin University, Akungba Akoko, Ondo State, Nigeria.
+                            Akungba Akoko, Ondo State, Nigeria.
                         </p>
                     </div>
                 </div>

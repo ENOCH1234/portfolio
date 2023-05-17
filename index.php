@@ -63,7 +63,7 @@
                         and Creative
                         <span class="developer">Designer</span>
                     </div>
-                    <a href="contact" class="primary-btn" data-text="Check My CV">
+                    <a href="docs/OLAYODE ENOCH OLADAPO - CV.pdf" target="_blank" class="primary-btn" data-text="Check My CV">
                         <span>M</span>
                         <span>y</span>
                         <span> </span>
